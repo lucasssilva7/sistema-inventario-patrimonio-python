@@ -32,7 +32,8 @@ Projeto acadêmico desenvolvido para aplicar conceitos de desenvolvimento de sis
 
 ## 📷 Demonstração
 
-![Tela principal](screenshots/tela-principal.png)
+<img width="1112" height="778" alt="image" src="https://github.com/user-attachments/assets/e17976a6-072b-4453-8dc0-b9cbb759a2f7" />
+
 
 
 
